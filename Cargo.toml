@@ -1,0 +1,8 @@
+[package]
+name = "cw20_staking"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+cosmwasm_std = "0.14.0"
+cw20 = "0.6.1"
